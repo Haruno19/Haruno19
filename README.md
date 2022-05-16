@@ -1,7 +1,7 @@
-<samp> ⛩ Welcome
+<samp> ⛩ よろしく Welcome
 <p>
     <samp>
-    &emsp; <b>‣</b> Bicocca University [Milan IT] <samp><i>- Computer Science Major </i></samp>
+        &emsp; <b>‣</b> Bicocca University [Milan IT] <samp><i>- Computer Science Major </i></samp>
     <br>
     &emsp; <b>‣</b> I mainly code in C++
     <br>
