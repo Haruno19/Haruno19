@@ -1,13 +1,13 @@
 <samp> ⛩ Welcome
 <p>
     <samp>
-      &ensp; <b>‣</b> Bicocca University [Milan IT] <samp><i>- Computer Science Major </i></samp>
+    &emsp; <b>‣</b> Bicocca University [Milan IT] <samp><i>- Computer Science Major </i></samp>
     <br>
-    &ensp; <b>‣</b> I mainly code in C++
+    &emsp; <b>‣</b> I mainly code in C++
     <br>
-    &ensp; <b>‣</b> I dream of living in Japan
+    &emsp; <b>‣</b> I dream of living in Japan
     <br>
-    &ensp; <b>‣</b> I like minimalism and reading comics
+    &emsp; <b>‣</b> I like minimalism and reading comics
     <br>
     <br>
     <i><a href="haruno.altervsta.org">my website</a><br></i>
