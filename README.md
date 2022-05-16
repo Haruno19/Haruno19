@@ -10,7 +10,7 @@
     &emsp; <b>‣</b> I like minimalism and reading comics
     <br>
     <br>
-    <i><a href="haruno.altervsta.org">my website</a><br></i>
+    <i><a href="http://haruno.altervsta.org">my website</a><br></i>
     <i><a href="https://www.buymeacoffee.com/haru19">buy me a tea</a></i>
 </p>
 
