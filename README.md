@@ -7,7 +7,7 @@
     <br>
     &emsp; <b>‣</b> I dream of living in Japan
     <br>
-    &emsp; <b>‣</b> I like minimalism and reading manga
+    &emsp; <b>‣</b> I like minimalism and animation
     <br>
     <br>
     <i><a href="https://www.buymeacoffee.com/haru19">buy me a tea</a></i>
