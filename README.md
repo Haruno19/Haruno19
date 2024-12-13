@@ -9,5 +9,7 @@
     <br>
     &emsp; <b>‣</b> I like minimalism and animation
     <br>
+    <br>
+    <i><a href="https:/shinseiki.blog">check out my blog about animation</a></i>
 </p>
 
