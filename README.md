@@ -1,7 +1,7 @@
 <samp> ⛩ よろしく Welcome
 <p>
     <samp>
-        &emsp; <b>‣</b> Student at Bicocca University [Milan IT] <samp><i>- Computer Science </i></samp>
+        &emsp; <b>‣</b> Graduate at Bicocca University [Milan IT] <samp><i>- Computer Science </i></samp>
     <br>
     &emsp; <b>‣</b> I mainly code in C++
     <br>
@@ -9,7 +9,5 @@
     <br>
     &emsp; <b>‣</b> I like minimalism and animation
     <br>
-    <br>
-    <i><a href="https://www.buymeacoffee.com/haru19">buy me a tea</a></i>
 </p>
 
