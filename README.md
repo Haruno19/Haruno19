@@ -11,6 +11,6 @@
     &emsp; <b>‣</b> I like animation, minimalism and math
     <br>
     <br>
-    <i><a href="https:/shinseiki.blog">check out my blog about animation</a></i>
+    <i><a href="https://shinseiki.blog">check out my blog about animation</a></i>
 </p>
 
